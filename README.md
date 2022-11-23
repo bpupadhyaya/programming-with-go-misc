@@ -1,2 +1,2 @@
 # programming-with-go-misc
-Go Recreational Programs
+Go Recreational Programming
